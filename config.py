@@ -1,5 +1,3 @@
-
-
 TOKEN = "8830410554:AAFg8lg4tJM5P3u_xNYm0jhh7nwXeBuY-6E"
 
 ADMINS = [
