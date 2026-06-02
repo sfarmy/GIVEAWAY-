@@ -1,4 +1,4 @@
-TOKEN = "8830410554:AAHEkX-ub8SF9sENJa33rV_nUCiXfn1n60U"
+TOKEN = "kia_bkl_bot_token_nhi_mila😆"
 
 ADMINS = [
     7331380618,
